@@ -21,6 +21,6 @@ This is tested in Gazebo Fortress and ROS2 Humble.
 # Q&A
 Feel free to ask me about anything!!!!!
 
-You can request on this repository or send me an e-mail.
+You can write question on this repository's "Issues" or send me an e-mail.
 
 Author's email : michael1015999@gmail.com
