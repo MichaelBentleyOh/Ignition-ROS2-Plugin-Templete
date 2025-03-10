@@ -7,8 +7,8 @@ This repository is for connection between Gazebo Ignition and ROS2.
 This is tested in Gazebo Fortress and ROS2 Humble.
 
 # Log
-1. 2025.3.10 : Create Repository.
-2. TBD 
+1. 2025.3.10 : Create Repository & Upload template package.
+2. 2025.??.?? : Add various plugin method such as realtime ROS2 data handling utilities, lifecycles, etc.
 
 # Reference
 1. https://github.com/bmagyar/gz_ros2_control?tab=License-1-ov-file
