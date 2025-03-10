@@ -10,8 +10,14 @@ This is tested in Gazebo Fortress and ROS2 Humble.
 1. First you have to install ROS2 and Gazebo Ignition
 2. Git clone this repository
    ```
-     git clone https://github.com/MichaelBentleyOh/Ignition-ROS2-Plugin-Templete/edit/main/README.md
+   git clone https://github.com/MichaelBentleyOh/Ignition-ROS2-Plugin-Templete.git
    ```
+3. Copy this package into your package.
+5. Build your package and insert plugin information into your SDF/Xacro/URDF file.
+   ```
+   colcon build --symlink-install
+   ```
+Details are skipped. I will add explanation in later.
 # Log
 1. 2025.3.10 : Create Repository & Upload template package.
 2. 2025.??.?? : Add various plugin method such as realtime ROS2 data handling utilities, lifecycles, etc.
