@@ -2,9 +2,9 @@
 <package format="3">
   <name>ign_plugin</name>
   <version>0.4.0</version>
-  <description>Ignition ros2_control package allows to control simulated robots using ros2_control framework.</description>
-  <maintainer email="alejandro@openrobotics.com">Alejandro Hernández</maintainer>
-  <author>Alejandro Hernández</author>
+  <description>Ignition ROS2 Plugin Template</description>
+  <maintainer email="micahel1015999@gmail.com">Minsik Oh</maintainer>
+  <author>Minsik Oh</author>
   <license>Apache 2</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
