@@ -6,6 +6,12 @@ This repository is for connection between Gazebo Ignition and ROS2.
 
 This is tested in Gazebo Fortress and ROS2 Humble.
 
+# Install & Build
+1. First you have to install ROS2 and Gazebo Ignition
+2. Git clone this repository
+   ```
+     git clone https://github.com/MichaelBentleyOh/Ignition-ROS2-Plugin-Templete/edit/main/README.md
+   ```
 # Log
 1. 2025.3.10 : Create Repository & Upload template package.
 2. 2025.??.?? : Add various plugin method such as realtime ROS2 data handling utilities, lifecycles, etc.
