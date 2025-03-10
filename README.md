@@ -17,7 +17,7 @@ This is tested in Gazebo Fortress and ROS2 Humble.
    ```
    colcon build --symlink-install
    ```
-Details are skipped. I will add explanation in later.
+Details are skipped. I will add explanation later.
 # Log
 1. 2025.3.10 : Create Repository & Upload template package.
 2. 2025.??.?? : Add various plugin method such as realtime ROS2 data handling utilities, lifecycles, etc.
